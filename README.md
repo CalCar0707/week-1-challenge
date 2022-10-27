@@ -7,6 +7,7 @@ Updated HTML and CSS properties to bring this Horiseon business website up to da
 
 ## Usage
 
+
 When you come to this homepage, you can use the top navigation bar to bring you to any point of interest on the main page.
 
 ## License
