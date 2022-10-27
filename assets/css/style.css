@@ -60,13 +60,13 @@ a {
     float: right;
     margin-left: 25px;
 }
-
+/* consolidated multiple rules into single content rule*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*consolidated multiple rules into single benefits rule*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,7 +134,7 @@ a {
 img {
     max-height: 200px;
 }
-
+/*consolidated multiple rules for h2 into single content h2 rule*/
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
